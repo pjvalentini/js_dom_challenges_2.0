@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(#909090, #F8F8F8) fixed;
+  height: 300px;
+}
+
+#yellatyou {
+  font-family: "Helvetica", sans-serif;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+div {
+  width: 300px;
+
+}

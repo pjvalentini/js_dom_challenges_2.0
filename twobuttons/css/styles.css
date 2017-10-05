@@ -1,0 +1,22 @@
+/* Buttons Layout */
+body {
+  background: #00ffc3 ;
+}
+
+#noagree {
+  font-family: "Helvetica", sans-serif;
+  font-size: 50px;
+  color: #ff0000;
+  text-align: center;
+}
+
+.button {
+    background-color: #ddff00;
+    border: none;
+    color: #ff0000;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

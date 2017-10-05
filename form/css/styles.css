@@ -1,0 +1,35 @@
+.title {
+  font-family: "Arial", sans-serif;
+}
+
+
+.userDir {
+  font-family: "Arial", sans-serif;
+  color: red;
+}
+
+.passDir {
+  font-family: "Arial", sans-serif;
+  color: red;
+}
+
+.Email {
+  font-size: 20px;
+  font-family: "Arial", sans-serif;
+}
+
+.Username {
+  font-size: 20px;
+  font-family: "Arial", sans-serif;
+}
+
+.Password {
+  font-size: 20px;
+  font-family: "Arial", sans-serif;
+}
+
+.confirmMessage {
+  font-size: 20px;
+  font-family: "Arial", sans-serif;
+  color: green;
+}
