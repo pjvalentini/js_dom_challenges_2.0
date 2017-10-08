@@ -10,7 +10,7 @@ function keyPress(event) {
 	document.getElementById("displayLetter").innerHTML += String.fromCharCode(event.charCode);
 // console.log(event) allows for the key that you are pressing to be viewed in the console
 // as well as the h1 element will match the key pressed in the console.
-		console.log(event);
+	console.log(event);
 }
 // This piece of code listens for the keypress.
 document.body.onkeypress = keyPress;
