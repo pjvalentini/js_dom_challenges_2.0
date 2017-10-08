@@ -24,7 +24,7 @@ form.addEventListener("submit", function(event) {
 // Using a regular expression to allow for letters and numbers to be used Username.
 	var numbers = /[a-zA-Z\s]+[0-9]/;
 // Setting the password as 12345678.
-	if(password === "12345678" && username.match(numbers)) {
+	if (password === "12345678" && username.match(numbers)) {
 // created var msg to be used to change innerHTML when Pass and Username are validated correctly.
 	var msg = "Information Accepted!";
 // Set the Alert to display the same msg as the H1 (only if info is corrrect);
